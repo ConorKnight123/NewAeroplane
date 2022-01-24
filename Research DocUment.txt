@@ -1,0 +1,17 @@
+Draft Research
+
+For the Sprite I will set its origin most likely in the exact middle of the plane to ensure rotation is at its best
+For the setposition I will set its position using vectors 5,4 or 150, 124 etc
+Settexturerectangle will be used to detect collision between the planes
+Set rotation will rotate the plane dependent on mouse click
+I will set the texture as 2 planes and an explosion
+
+I will load the images from the image folder
+SetRepeated will check for errors if something is false or true and will give out an appropriate error message 
+
+Mouse left and right will control each plane independently 
+
+Event mouse button will draw vectors in which a plane will follow ( Depends on if right or left click ) 
+
+Event mousebuttonpressed will start drawing the vector and mousebutton released will finish drawing the vector drawing a straight line 
+
